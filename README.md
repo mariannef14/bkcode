@@ -10,4 +10,4 @@ O site apresenta as seguintes páginas:
 
 <p>Na página de produtos, o usuário pode escolher um dos produtos listados e adicioná-lo ao carrinho ou remover o produto que foi adicionado ao carrinho clicando no botão com o ícone da lixeira.</p>
 
-
+![projetobk](https://user-images.githubusercontent.com/70807687/174441616-830f0250-0cfe-4dc2-a74a-2fa97da9af87.gif)
