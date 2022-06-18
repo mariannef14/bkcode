@@ -11,7 +11,7 @@ O site apresenta as seguintes páginas:
 <p>Na página de produtos, o usuário pode escolher um dos produtos listados e adicioná-lo ao carrinho ou remover o produto que foi adicionado ao carrinho clicando no botão com o ícone da lixeira.</p>
 
 <p>Rápida demonstração do site </p>
-![projetobk](https://user-images.githubusercontent.com/70807687/174409286-603cd5b0-d358-41b0-863b-e4a0d4f33060.gif)
+![projetobk](https://user-images.githubusercontent.com/70807687/174418587-b5617292-06ba-4980-8304-2c133928936a.gif)
 
 
 <p>Página do totem </p>
