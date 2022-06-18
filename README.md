@@ -12,9 +12,3 @@
 <br>
 
 ![projetobk](https://user-images.githubusercontent.com/70807687/174443841-32787d9e-630a-4ffd-9298-d7b696262bac.gif)
-![20220618_111512](https://user-images.githubusercontent.com/70807687/174443917-ec450781-b14d-40a8-b6b9-9cb526137dea.gif)
-
-<br>
-<p>Página com opções de retirar o pedido</p>
-
-![Opções de retirar o pedido](https://user-images.githubusercontent.com/70807687/174442882-c73622d7-d672-4ec6-a751-b6944c870bb0.png)
