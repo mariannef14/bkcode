@@ -11,7 +11,7 @@
 <p>Na página de produtos, o usuário pode escolher um dos produtos listados e adicioná-lo ao carrinho ou remover o produto que foi adicionado ao carrinho clicando no botão com o ícone da lixeira.</p>
 <br>
 
-![20220618_111512](https://user-images.githubusercontent.com/70807687/174442915-4635bc8d-c25b-4927-a0b8-7d8852228aa5.gif)
+https://user-images.githubusercontent.com/70807687/174443025-3ce543c2-4ab2-4a96-bb92-62f2a29525d5.mp4
 
 <br>
 <p>Página com opções de retirar o pedido</p>
